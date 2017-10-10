@@ -1,0 +1,9 @@
+{
+  "name": "CDNTech/GithubSearch",
+  "description": "Search PHP and JavaScript repositories from GitHub where the entered word is mentioned in the name.",
+  "type": "project",
+  "require": {
+    "knplabs/github-api": "^2.6",
+    "php-http/guzzle6-adapter": "^1.1"
+  }
+}
